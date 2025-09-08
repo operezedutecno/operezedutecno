@@ -18,7 +18,7 @@ Desarrollador con más de 5 años de experiencia en desarrollo web.
 
 ---
 
-## 🛠️ Habilidades Técnicas  
+## 🛠️ Herramientas tecnológicas  
 
 **Lenguajes:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)  
